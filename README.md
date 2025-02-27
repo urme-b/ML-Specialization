@@ -1,1 +1,1 @@
-# ML-Specialization
+# ML Specialization
